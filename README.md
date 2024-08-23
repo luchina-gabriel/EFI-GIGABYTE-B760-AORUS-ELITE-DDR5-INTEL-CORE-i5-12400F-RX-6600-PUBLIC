@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B760M Aorus Elite, Intel Core i5 12400F, AMD Radeon RX 6600 8Gb and 32Gb DDR5
 
+![Overview](https://github.com/user-attachments/assets/3c40fd59-9a0f-481d-9f1a-99cc23dd06ce)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.6.1)
